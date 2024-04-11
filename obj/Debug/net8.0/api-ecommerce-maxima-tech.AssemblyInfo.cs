@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-ecommerce-maxima-tech")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4474e2bc36a4d51cb641965dcd19e7360c6b9dec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e667eb2555b10e139805ce1abab264caabd2bdda")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-ecommerce-maxima-tech")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-ecommerce-maxima-tech")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
