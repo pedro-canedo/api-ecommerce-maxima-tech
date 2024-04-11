@@ -54,6 +54,7 @@ namespace api_ecommerce_maxima_tech.Application.Services
         {
             var produto = new Produto
             {
+                Id = Guid.NewGuid(),
                 Codigo = produtoDto.Codigo,
                 Descricao = produtoDto.Descricao,
                 DepartamentoId = produtoDto.DepartamentoId,

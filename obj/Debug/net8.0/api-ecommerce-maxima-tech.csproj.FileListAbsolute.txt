@@ -32,3 +32,4 @@
 /Users/pedro/projetos/testes-tecnicos/api-ecommerce-maxima-tech/obj/Debug/net8.0/api-ecommerce-maxima-tech.pdb
 /Users/pedro/projetos/testes-tecnicos/api-ecommerce-maxima-tech/obj/Debug/net8.0/api-ecommerce-maxima-tech.genruntimeconfig.cache
 /Users/pedro/projetos/testes-tecnicos/api-ecommerce-maxima-tech/obj/Debug/net8.0/ref/api-ecommerce-maxima-tech.dll
+/Users/pedro/projetos/testes-tecnicos/api-ecommerce-maxima-tech/obj/Debug/net8.0/api-ecommerce-maxima-tech.sourcelink.json
